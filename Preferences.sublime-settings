@@ -1,3 +1,9 @@
 {
-	"font_size": 12
+	"color_scheme": "Packages/Dark Pastel Color Scheme/dark-pastel.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme"
 }
